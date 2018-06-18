@@ -1,0 +1,57 @@
+.container-fluid {
+    background-color: #F78E69;
+    padding: 2%;
+}
+
+h1 {
+    text-align: right;
+    color: white;
+}
+
+p {
+    text-align: right;
+    color: white;
+}
+
+h2 {
+    text-align: right;
+    color: white;
+}
+
+
+img {
+    width: 100%;
+    position: center;
+}
+
+.primera-linea {
+    background-color: #F78E69;
+    padding: 2%;
+}
+
+.segunda_linea {
+    background-color: #ABE188;
+    text-align: center;
+    background-position: center;
+    color: white;
+    width: 20px;
+}
+
+.uno {
+    border: white 10px solid;
+}
+
+.ultimo-parrafo {
+    text-align: right;
+}
+
+.tercera_linea {
+    background-color: #ABE188;
+    text-align: center;
+    background-position: center;
+    color: white;
+}
+
+.parra_panda {
+    text-align: center;
+}
